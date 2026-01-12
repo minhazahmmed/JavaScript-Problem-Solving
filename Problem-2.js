@@ -9,5 +9,5 @@ function countVowels(str){
   return count;
 
 }
-console.log(countVowels('apple'))
+console.log(countVowels('programming'))
 
